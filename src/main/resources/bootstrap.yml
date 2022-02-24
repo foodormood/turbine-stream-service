@@ -9,4 +9,3 @@ spring:
       fail-fast: false
       password: 11223344
       username: config-server
-      label: main
